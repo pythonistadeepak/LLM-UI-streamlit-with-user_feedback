@@ -7,7 +7,6 @@ with st.sidebar:
     openai_api_key = st.text_input("Optional Key", key="feedback_api_key", type="password")
     "This is only for testing"
     "Same Can be Replicated in controlled Env"
-    "The solution is combination of streamlit-feedback and Trubrics"
     "Apache License 2.0"
     "[ Connect Deepak ](https://www.linkedin.com/in/pyhonistadeepak/)"
 
